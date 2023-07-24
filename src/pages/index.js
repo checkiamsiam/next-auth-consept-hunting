@@ -5,7 +5,7 @@ const HomePage = () => {
       <Head>
         <title>Next Auth</title>
       </Head>
-      <h1 style={{ textAlign: "center", marginTop:"10%" }}>Welcome To Next Auth Home Page</h1>
+      <h1 style={{ textAlign: "center", marginTop: "10%" }}>Welcome To Next Auth Home Page</h1>
     </div>
   );
 };
